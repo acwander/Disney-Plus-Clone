@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 function Header() {
-	return <Container>Header Placeholder</Container>;
+	return <Container>Header</Container>;
 }
 
 export default Header;
